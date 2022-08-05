@@ -67,7 +67,7 @@ Backend Developer at **Loplat(**[geolocation data company](https://www.loplat.co
 
 **currently employed**(2021-11~)
 
-- Tech stack(click arrow on the left to expand Tech stack list)
+- Tech stack
     
     Python
     
