@@ -144,15 +144,15 @@ based on pytorch. 
 
 3. Multi Thread
 
-4. A* algorithm(최단거리 알고리즘)
+4. A* algorithm
 
-5. Github Teamwork(Github 팀 협업)
+5. Github Teamwork
 
-6. Thorough understanding of overall development process(개발과정에 대한 전반적인 프로세스 이해)
+6. Thorough understanding of overall development process
 
-7. Processing of UI/UX on game(게임 UI/UX 처리)
+7. Processing of UI/UX on game
 
-8. Data I/O management with csv file(csv파일을 이용한 데이터 입출력 및 관리)
+8. Data I/O management with csv file
 
 [View Project](https://github.com/nibya1322/Project_Defengers)
 
