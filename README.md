@@ -1,6 +1,6 @@
 # About Me
 
-Backend Developer with good teamwork and communication skills. 
+Fullstack Developer + DevOps
 
 Phone Number : 82+ 010-9292-2495 
 
@@ -14,15 +14,19 @@ Blog : [https://siicp1234.tistory.com/](https://siicp1234.tistory.com/) 
 
 Youtube : [https://www.youtube.com/channel/UCThZC2x19mpVCklOVknnRjQ](https://www.youtube.com/channel/UCThZC2x19mpVCklOVknnRjQ)
 
-I mostly use Python for development.
-
-I love to learn, communicate and solve problems with teammates.
-
-I do respect my teammates. 
-
-I’m open to communication every time.
 
 ---
+
+# Teck Stack
+1. Python(FastAPI, Flask)
+2. Java(Spring Boot)
+3. Javascript(React)
+4. MySQL
+5. GCP(Google Cloud Platform)
+
+
+---
+
 
 # Summary
 
