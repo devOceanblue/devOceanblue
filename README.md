@@ -27,41 +27,14 @@ Youtube : [https://www.youtube.com/channel/UCThZC2x19mpVCklOVknnRjQ](https://ww
 
 ---
 
-
 # Summary
 
- Junior Web Developer specializing in back end development. Experienced with all stages of the 
+ Junior Web Developer specializing in fullstack development. 
+ 
+ Experienced with all stages of the development cycle.
 
- development cycle for web Projects on FastAPI, Flask, Sanic and Microservice Architecture.
+ Well versed in numerous programming languages.
 
- Well versed in numerous programming languages 
-
- including Python, JAVA. English skills is between intermediate and advanced.
-
----
-
-# Highlights
-
-1. Teamwork 
-2. Documentation 
-3. Passionate Learning 
-4. Web Infrastructure 
-5. Solid CS Knowledge 
-6. Service-focused 
-
----
-
-# Certifications
-
-   TOEIC : 895
-
----
-
-# Education
-
-### 2014-2021
-
-- ****Bachelor of Science in Computer Science****
 
 ---
 
@@ -71,38 +44,25 @@ Backend Developer at **Loplat(**[geolocation data company](https://www.loplat.co
 
 **currently employed**(2021-11~)
 
-- Tech stack
-    
-    Python
-    
-    Flask
-    
-    FastAPI
-    
-    MySQL
-    
-    Google Cloud Platform
-    
-    Docker
-    
-    Sanic
-    
+---
 
 ### My Work
 
-1. **Backend Server Migration** 
+1. **migrated backend server ** 
     
     **2022-03 ~ 2022-07**
     
-2. **Development of Ad Matching Platform website based on offline geolocation data**
+2. **developed Advertisement targeting service
     
     **2022-01 ~ 2022-07**
     
-3. **Development of Admin webpage for company** 
+3. **developed Admin webpage for company** 
     
     **2021-11 ~ 2022-07**
     
-
+4. ** developed A/B Test of advertisement targeting service **
+    
+   
 ---
 
 # Projects
@@ -138,26 +98,3 @@ based on pytorch. 
 
 [View Videos](https://www.youtube.com/watch?v=tRqgT2bmPMI&ab_channel=tipsBlender)
 
-### Tower Defense Game in Android
-
-: Mobile Android game project with Unity Engine  
-
-1. Design Pattern(Singleton pattern)
-
-2. Concurrency control
-
-3. Multi Thread
-
-4. A* algorithm
-
-5. Github Teamwork
-
-6. Thorough understanding of overall development process
-
-7. Processing of UI/UX on game
-
-8. Data I/O management with csv file
-
-[View Project](https://github.com/nibya1322/Project_Defengers)
-
-[View Videos](https://www.youtube.com/watch?v=vrcLxVF3B-8)
