@@ -64,6 +64,7 @@ Backend Developer at **Loplat(**[geolocation data company](https://www.loplat.co
     
     
 4. developed A/B Test of advertisement targeting service 
+       
     2022-08 ~ 2022-10
     
    
