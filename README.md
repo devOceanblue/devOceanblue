@@ -18,6 +18,9 @@ Youtube : [https://www.youtube.com/channel/UCThZC2x19mpVCklOVknnRjQ](https://ww
 ---
 
 # Teck Stack
+
+Fullstack + devops
+
 1. Python(FastAPI, Flask)
 2. Java(Spring Boot)
 3. Javascript(React)
