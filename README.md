@@ -48,19 +48,23 @@ Backend Developer at **Loplat(**[geolocation data company](https://www.loplat.co
 
 ### My Work
 
-1. **migrated backend server ** 
+1. developed Admin webpage for company 
     
-    **2022-03 ~ 2022-07**
+    2021-11 ~ 2022-07
+
+
+2. developed Advertisement targeting service
     
-2. **developed Advertisement targeting service
+    2022-01 ~ 2022-07
     
-    **2022-01 ~ 2022-07**
+
+3. migrated backend server 
     
-3. **developed Admin webpage for company** 
+    2022-03 ~ 2022-07
     
-    **2021-11 ~ 2022-07**
     
-4. ** developed A/B Test of advertisement targeting service **
+4. developed A/B Test of advertisement targeting service 
+    2022-08 ~ 2022-10
     
    
 ---
