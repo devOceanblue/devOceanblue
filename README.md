@@ -1,4 +1,4 @@
-# About Me
+# 소개
 
 Fullstack Developer + DevOps
 
@@ -17,7 +17,7 @@ Youtube : [https://www.youtube.com/channel/UCThZC2x19mpVCklOVknnRjQ](https://ww
 
 ---
 
-# Teck Stack
+# 기술스택
 
 Fullstack + devops
 
@@ -30,18 +30,7 @@ Fullstack + devops
 
 ---
 
-# Summary
-
- Junior Web Developer specializing in fullstack development. 
- 
- Experienced with all stages of the development cycle.
-
- Well versed in numerous programming languages.
-
-
----
-
-# Experience
+# 경력
 
 Backend Developer at **Loplat(**[geolocation data company](https://www.loplat.com)) 
 
@@ -49,7 +38,7 @@ Backend Developer at **Loplat(**[geolocation data company](https://www.loplat.co
 
 ---
 
-### My Work
+### 
 
 1. developed Admin webpage for company 
     
@@ -73,7 +62,7 @@ Backend Developer at **Loplat(**[geolocation data company](https://www.loplat.co
    
 ---
 
-# Projects
+# 
 
 ### Airbnb Clone
 
