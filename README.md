@@ -13,8 +13,6 @@ Blog : [https://siicp1234.tistory.com/](https://siicp1234.tistory.com/) 
 
 # 기술스택
 
-Fullstack + devops
-
 1. Python(FastAPI, Flask)
 2. Java(Spring Boot)
 3. Javascript(React)
