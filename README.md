@@ -1,6 +1,6 @@
 # 소개
 
-Fintech Software Engineer + Tech Pioneer
+Fintech Software Engineer + Tech Pioneer   
 Fullstack Developer + DevOps
 
 Phone Number : 82+ 010-9292-2495 
