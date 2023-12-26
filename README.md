@@ -22,11 +22,13 @@ Blog : [https://siicp1234.tistory.com/](https://siicp1234.tistory.com/) 
 
 # 기술스택
 
-1. Python(FastAPI, Flask)
-2. Java(Spring Boot)
-3. Javascript(React)
-4. MySQL
-5. GCP(Google Cloud Platform)
+1. Java(Spring Boot)
+2. Oracle
+3. Python(FastAPI, Flask)
+4. Javascript(with React)
+5. MySQL
+6. AWS
+7. GCP(Google Cloud Platform)
 
 
 
