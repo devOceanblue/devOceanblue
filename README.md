@@ -12,11 +12,7 @@ Fintech Software Engineer + Tech Pioneer
 Fullstack Developer + DevOps
 
 Phone Number : 82+ 010-9292-2495 
-
 E-mail : [neptuner24@gmail.com](mailto:neptuner24@gmail.com) 
-
-Blog : [https://siicp1234.tistory.com/](https://siicp1234.tistory.com/) 
-
 
 ---
 
