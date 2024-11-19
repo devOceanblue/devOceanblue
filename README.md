@@ -18,13 +18,11 @@ E-mail : [neptuner24@gmail.com](mailto:neptuner24@gmail.com) 
 
 # 기술스택
 
-1. Java(Spring Boot)
-2. Oracle
-3. Python(FastAPI, Flask)
-4. Javascript(with React)
-5. MySQL
-6. AWS
-7. GCP(Google Cloud Platform)
-
+1. Java(Spring Boot), Python(FastAPI, Flask)
+2. Oracle, MySQL
+3. Redis
+4. Elasticsearch
+5. Kafka
+6. AWS, GCP
 
 
