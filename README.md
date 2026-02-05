@@ -7,7 +7,8 @@ Kim Seungyoon (김승윤)
 
 📍 Seoul, KR  
 📧 neptuner24@gmail.com · 📱 +82 010-9292-2495  
-🌐 Portfolio: https://portfolio-mu-wheat-53.vercel.app/ · 🧑‍💻 GitHub: https://github.com/devOceanblue
+🌐 Portfolio: https://portfolio-mu-wheat-53.vercel.app/ 
+🧑‍💻 GitHub: https://github.com/devOceanblue
 
 ---
 
